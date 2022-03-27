@@ -1,0 +1,12 @@
+.navbar {
+    color: red;
+    height: 50px;
+    border: 2px solid grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.navbar a {
+    font-size: 1.5rem;
+}
